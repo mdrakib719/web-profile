@@ -1,0 +1,178 @@
+.head {
+  background-color: #fff8ff;
+  background-image: url("images/header_bg.png"), url("images/developer.png");
+  background-repeat: no-repeat;
+  background-position: bottom right, bottom left;
+}
+.pic {
+  justify-content: space-between;
+  margin-left: 300px;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px 200px;
+}
+nav ul {
+  display: flex;
+  align-items: center;
+}
+nav li {
+  margin-left: 50px;
+  display: inline;
+  text-align: right;
+  list-style-type: none;
+}
+.nav-ti {
+  color: black;
+  font-size: 50px;
+}
+.pi-color {
+  font-size: larger;
+  color: #fd6e0a;
+}
+.bo {
+  color: white;
+  font-weight: 700;
+  font-size: 20px;
+  border: 0;
+  padding: 18px 35px;
+  height: 64px;
+  border-radius: 5px;
+  background-color: #fd6e0a;
+}
+.boo {
+  display: flex;
+  color: white;
+  background-color: black;
+  font-weight: 700;
+  font-size: 20px;
+  border: 0;
+  padding: 18px 35px;
+  height: 64px;
+  border-radius: 5px;
+}
+.banner {
+  align-items: center;
+  display: flex;
+  margin: 0 200px;
+  justify-content: space-between;
+}
+.ban-ma {
+  font-weight: 600;
+  font-size: 45px;
+}
+.ban-sub {
+  font-weight: 700;
+  font-size: 85px;
+  margin-bottom: 20px;
+}
+p {
+  color: black;
+  font-size: 20px;
+}
+.section {
+  margin: 130px 130px 130px 130px;
+
+  background-color: #fff8f3;
+  border-radius: 10px;
+  padding: 130px 150px;
+  text-align: center;
+}
+.about {
+  text-align: center;
+  font-size: 700;
+  font-size: 50px;
+  margin-bottom: 30px;
+}
+.text {
+  color: #757575;
+  font-size: 25px;
+  margin-bottom: 30px;
+}
+.info {
+  display: flex;
+  list-style-type: none;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  margin: 100px 100px 100px 150px;
+  justify-content: space-between;
+}
+.what {
+  text-align: center;
+  margin: 100px 100px 100px 100px;
+}
+
+.he {
+  font-size: 50px;
+}
+.description {
+  display: flex;
+  margin: 50px 100px 200px 200px;
+  font-size: 25px;
+}
+.skills-container {
+  display: flex;
+  gap: 10px;
+}
+.skill {
+  margin: 0px 50px 50px 100px;
+  text-align: left;
+  background: #ffffff;
+  box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  padding: 30px;
+}
+.skill-title {
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+  margin-bottom: 30px;
+}
+.skill-description {
+  margin-top: 10px;
+  text-align: left;
+  color: #757575;
+  font-size: 25px;
+  margin-bottom: 30px;
+}
+.resume {
+}
+.section-title {
+  font-size: 50px;
+  text-align: center;
+  font-weight: bold;
+}
+.resume-content {
+  display: flex;
+  justify-content: space-between;
+  gap: 50px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+.resume-title {
+  font-size: 40px;
+}
+
+.resume-title {
+  font-size: 35px;
+}
+.title {
+  font-weight: 700;
+  font-size: 30px;
+  color: #474747;
+}
+.sub-titel {
+  color: #757575;
+  font-weight: 600;
+  font-size: 25px;
+}
+.description-ti {
+  color: #757575;
+  font-size: 20px;
+}
+.ba {
+  text-align: center;
+  margin-top: 50px;
+}
